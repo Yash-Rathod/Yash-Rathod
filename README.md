@@ -34,6 +34,13 @@
 <br />
 <br />
 
+<a href="https://github.com/Yash-Rathod">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yash-Rathod&show_icons=true&theme=radical&line_height=27" alt="Yash's github stats"/>
+</a>
+<a href="https://github.com/Yash-Rathod">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Rathod&theme=radical" />
+</a>
+
 [twitter]: https://twitter.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
