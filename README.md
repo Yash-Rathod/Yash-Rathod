@@ -35,7 +35,7 @@
 <br />
 
 <a href="https://github.com/Yash-Rathod">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yash-Rathod&show_icons=true&theme=radical&line_height=27" alt="Yash's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yash-Rathod&show_icons=true&theme=radical&line_height=27"/>
 </a>
 <a href="https://github.com/Yash-Rathod">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Rathod&theme=radical" />
