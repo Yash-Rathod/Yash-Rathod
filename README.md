@@ -1,7 +1,6 @@
 ### Hi there, I'm Yash Rathod 👋
 
 ## I'm an AI & Robotics Enhusiast
-- 🔭 I’m currently working on my final-year project RCRDL 😀
 - 🌱 I’m currently learning Reinforcement Learning
 - 👯 I’m looking to collaborate with like minded peoples
 - 🤔 I’m looking for help with RL 
