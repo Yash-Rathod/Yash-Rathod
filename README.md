@@ -1,31 +1,29 @@
 <h1 align="center">Yash Rathod</h1>
 
 <p align="center">
-  <strong>Lead DevOps & Cloud Engineer</strong> · Building production-grade infrastructure at scale<br/>
-  Ahmedabad, Gujarat, India
+  <strong>Senior DevOps Engineer</strong> · Production-grade cloud infrastructure at scale<br/>
+  Ahmedabad, Gujarat, India · <strong>Open to work</strong>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID">
+  <a href="https://www.linkedin.com/in/yash-rathod-ca/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Senior%20DevOps%20Engineer-2ea44f?style=flat-square" />
+  <img src="https://img.shields.io/badge/Role-Senior%20DevOps%20Engineer-2ea44f?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Actively%20Looking-orange?style=flat-square" />
 </p>
 
 ---
 
-## What I do
+## What I build
 
-I design and operate cloud-native infrastructure for production workloads — Kubernetes at scale, GitOps pipelines, Terraform IaC, and observability stacks that actually get used.
+I design and operate cloud-native infrastructure for production workloads — Kubernetes at scale, GitOps pipelines, Terraform IaC, and observability stacks that engineers actually use.
 
-Currently at **BakTrack** as Lead DevOps & Cloud Engineer, where I own the end-to-end infrastructure: from EKS cluster architecture and GitLab CI/CD pipelines to Prometheus/Grafana monitoring and multi-account AWS provisioning via Terraform.
+Most recently at **BakTrack** as Lead DevOps & Cloud Engineer, owning end-to-end infrastructure: EKS cluster architecture, GitLab CI/CD pipelines, Prometheus/Grafana monitoring, and multi-account AWS provisioning via Terraform.
 
-- 🏗 **Production EKS platform** running at 99.7% uptime — Terraform + ArgoCD + Helm
-- ⚡ **GitOps workflows** — GitLab CI/CD with automated promotion across environments
-- 📊 **Full observability stack** — Prometheus, Grafana, ELK, custom alerting
+- 🏗 **Production EKS platform** — 99.7% uptime, Terraform + ArgoCD + Helm
+- ⚡ **GitOps CI/CD** — GitLab pipelines with automated promotion across environments
+- 📊 **Full observability** — Prometheus, Grafana, ELK stack, custom alerting
 - ☁️ **Multi-cloud** — AWS (primary), Azure (AKS), GCP
 
 ---
@@ -73,12 +71,6 @@ Currently at **BakTrack** as Lead DevOps & Cloud Engineer, where I own the end-t
 
 ---
 
-## Currently building
-
-> Working on a public reference architecture for a production-grade EKS platform with Terraform, ArgoCD, and a full observability stack — watch this repo for updates.
-
----
-
 ## GitHub Stats
 
 <p align="center">
@@ -89,5 +81,5 @@ Currently at **BakTrack** as Lead DevOps & Cloud Engineer, where I own the end-t
 ---
 
 <p align="center">
-  <sub>Open to Senior DevOps Engineer roles · Ahmedabad, Gujarat, India · Open to remote</sub>
+  <sub>Available for Senior DevOps Engineer roles · Ahmedabad, Gujarat, India · Open to remote</sub>
 </p>
