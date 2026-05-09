@@ -71,15 +71,6 @@ Most recently at **BakTrack** as Lead DevOps & Cloud Engineer, owning end-to-end
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Yash-Rathod&show_icons=true&theme=default&hide_border=true&count_private=true&hide=stars" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Rathod&layout=compact&theme=default&hide_border=true&hide=jupyter%20notebook,html,css" />
-</p>
-
----
-
 <p align="center">
   <sub>Available for Senior DevOps Engineer roles · Ahmedabad, Gujarat, India · Open to remote</sub>
 </p>
