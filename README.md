@@ -69,6 +69,14 @@ Most recently at **BakTrack** as Lead DevOps & Cloud Engineer, owning end-to-end
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
 
+## Featured Work
+
+| Project | Description |
+|---|---|
+| [BakTrack EKS Reference Architecture](https://github.com/Yash-Rathod/infra-terraform) | Production-grade EKS platform — Terraform, ArgoCD GitOps, Karpenter, full observability |
+| [Helm Charts](https://github.com/Yash-Rathod/helm-charts) | Reusable Helm chart library for BakTrack microservices |
+| [GitOps Config](https://github.com/Yash-Rathod/apps-config) | ArgoCD app-of-apps manifests — the GitOps source of truth |
+
 ---
 
 <p align="center">
