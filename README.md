@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Senior DevOps Engineer</strong> · Production-grade cloud infrastructure at scale<br/>
-  Ahmedabad, Gujarat, India · <strong>Open to work</strong>
+  Ahmedabad, Gujarat, India
 </p>
 
 <p align="center">
